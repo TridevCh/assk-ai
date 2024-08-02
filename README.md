@@ -1,1 +1,2 @@
-# assk-ai
+# as
+k-ai
